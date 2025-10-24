@@ -1,6 +1,6 @@
 on:
- push: 
- branches: 
+ push:
+ branches:
  - main
 name: Build and Deploy 
 jobs:
